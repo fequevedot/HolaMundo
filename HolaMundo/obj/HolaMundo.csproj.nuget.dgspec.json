@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feque\\Source\\Repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\Users\\feque\\source\\repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feque\\Source\\Repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\Users\\feque\\source\\repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feque\\Source\\Repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\feque\\source\\repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
         "projectName": "HolaMundo",
-        "projectPath": "C:\\Users\\feque\\Source\\Repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
+        "projectPath": "C:\\Users\\feque\\source\\repos\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
         "packagesPath": "C:\\Users\\feque\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feque\\Source\\Repos\\HolaMundo\\HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\feque\\source\\repos\\HolaMundo\\HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\feque\\AppData\\Roaming\\NuGet\\NuGet.Config",
