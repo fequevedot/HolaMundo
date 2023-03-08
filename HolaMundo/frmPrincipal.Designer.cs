@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            btnSalid = new Button();
+            SuspendLayout();
+            // 
+            // btnSalid
+            // 
+            btnSalid.Location = new Point(660, 377);
+            btnSalid.Name = "btnSalid";
+            btnSalid.Size = new Size(94, 29);
+            btnSalid.TabIndex = 0;
+            btnSalid.Text = "Salir";
+            btnSalid.UseVisualStyleBackColor = true;
+            btnSalid.Click += btnSalid_Click;
+            // 
+            // frmPrincipal
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Text = "Form1";
+            Controls.Add(btnSalid);
+            Name = "frmPrincipal";
+            Text = "Principal";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button btnSalid;
     }
 }
