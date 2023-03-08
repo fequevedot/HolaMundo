@@ -6,5 +6,10 @@ namespace HolaMundo
         {
             InitializeComponent();
         }
+
+        private void btnSalid_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
